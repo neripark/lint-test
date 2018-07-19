@@ -1,0 +1,26 @@
+{
+  "name": "lint-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/neripark/lint-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neripark/lint-test/issues"
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "homepage": "https://github.com/neripark/lint-test#readme",
+  "devDependencies": {
+    "prettier": "1.13.7"
+  }
+}
